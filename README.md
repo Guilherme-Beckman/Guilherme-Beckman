@@ -17,4 +17,5 @@
 - 👀 Tenho interesse em me tornar um desenvolvedor de backend.<br>
 - 🌱 Atualmente, estou aprendendo Java.<br>
 - 💞️ Estou buscando colaborar como um Junior.<br>
-- Onde me encontrar: guilhermebeckman3@gmail.com
+- 📧 Onde me encontrar: [guilhermebeckman3@gmail.com](mailto:guilhermebeckman3@gmail.com) 
+
