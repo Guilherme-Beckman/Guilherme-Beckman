@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-beckman-0b69502a1)
 
 ![Guilherme-Beckman GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Beckman&show_icons=true&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Beckman&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que eu uso no meu dia 
 
 <div style="display: inline_block"><br/>
@@ -13,9 +13,10 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <br><br><br>
-- 👋 Oi, eu sou o @Guilherme-Beckman.<br>
-- 👀 Tenho interesse em me tornar um desenvolvedor de backend.<br>
-- 🌱 Atualmente, estou aprendendo Java.<br>
-- 💞️ Estou buscando colaborar como um Junior.<br>
-- 📧 Onde me encontrar: [guilhermebeckman3@gmail.com](mailto:guilhermebeckman3@gmail.com) 
-
+   <ul>
+        <li>👋 Oi, eu sou o @Guilherme-Beckman.</li>
+        <li>👀 Tenho interesse em me tornar um desenvolvedor de backend.</li>
+        <li>🌱 Atualmente, estou aprendendo Java.</li>
+        <li>💞️ Estou buscando colaborar como um Junior.</li>
+        <li>📧 Onde me encontrar: <a href="mailto:guilhermebeckman3@gmail.com">guilhermebeckman3@gmail.com</a></li>
+    </ul>
