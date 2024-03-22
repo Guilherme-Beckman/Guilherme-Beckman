@@ -1,5 +1,4 @@
 ### Olá eu sou Guilherme Beckman 🧑
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebeckman3@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-beckman-0b69502a1)
 
 ![Guilherme-Beckman GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Beckman&show_icons=true&theme=tokyonight)
@@ -18,4 +17,4 @@
 - 👀 Tenho interesse em me tornar um desenvolvedor de backend.<br>
 - 🌱 Atualmente, estou aprendendo Java.<br>
 - 💞️ Estou buscando colaborar como um Junior.<br>
-
+- Onde me encontrar: guilhermebeckman3@gmail.com
