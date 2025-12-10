@@ -35,6 +35,7 @@
 - Docker & Docker Compose
 - Kong, Consul, Nginx
 - PostgreSQL, MySQL
+- AWS
 
 ---
 
